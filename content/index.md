@@ -1,5 +1,5 @@
 ---
-title: Welcome to Quartz
+title: 🐟 Aquaponics Live Research🌱
 ---
 
 This is a blank Quartz installation. testing
